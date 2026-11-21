@@ -4,15 +4,10 @@ import { useState } from "react";
 
 
 export default function Home() {
-  
-  function handleButton() {
-    window.location.href = "/about"
-  }
 
   return (
     <div>
-      <p>Home</p>
-      <button className = "bg-gray-300 px-4 py-4 rounded-lg cursor-pointer" onClick={handleButton}>About Me</button>
+      <p>hi ist me is veritiy</p>
     </div>
   );
 }
