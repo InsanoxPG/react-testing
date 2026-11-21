@@ -7,7 +7,7 @@ export default function Home() {
 
   return (
     <div>
-      <p>hi ist me is veritiy</p>
+      <h1>JOHN.</h1>
     </div>
   );
 }
