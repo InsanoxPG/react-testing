@@ -5,6 +5,7 @@ export default function Navbar() {
         <nav className="*:bg-gray-300 *:rounded-lg bg-green-100 text-black px-2 py-2 space-x-4">
             <a href="/">Home</a>
             <a href="/about">About Me</a>
+            <a href="/buntown">Buntown</a>
         </nav>
     );
 }
